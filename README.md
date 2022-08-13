@@ -1,3 +1,3 @@
 # Stepik
-| Results of studying courses on stepik |
+Results of studying courses on stepik 
 -----------------------------------------
