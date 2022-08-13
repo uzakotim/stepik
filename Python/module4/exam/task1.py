@@ -1,6 +1,3 @@
-from unittest import result
-
-
 array = input().split()
 n = int(input())
 result = []
