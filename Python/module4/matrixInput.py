@@ -9,12 +9,13 @@ for i in range(rows):
 
 for row in matrix:
     print(" ".join(row))
+
 print()
 for i in range(cols):
     for j in range(rows):
         print(matrix[j][i],end=" ")
     print()
-    
+
 """
 4
 2
