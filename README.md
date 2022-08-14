@@ -1,2 +1,3 @@
-# stepik
-results of studying courses on stepik
+# Stepik
+Results of studying courses on stepik 
+-----------------------------------------
