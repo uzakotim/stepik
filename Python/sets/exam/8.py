@@ -5,8 +5,6 @@ info = set([input() for _ in range(n)])
 set1 = (math | info) - info
 set2 = (math | info) - math
 set3 = set1 | set2
-print(set3)
-
 print(len(set3) if len(set3)!=0 else "NO")
 """
 5
