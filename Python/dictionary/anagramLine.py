@@ -1,6 +1,3 @@
-from cgitb import text
-
-
 text1 = list(input().lower())
 text2 = list(input().lower())
 for i in ".,!?:;- ":
