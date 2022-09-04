@@ -6,6 +6,5 @@ matrix = [[1, 2, 3, 4],
 
 for i in matrix:
     shuffle(i)
-print(matrix)
 """
 """

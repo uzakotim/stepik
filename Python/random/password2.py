@@ -1,4 +1,3 @@
-from operator import truediv
 import random
 from string import ascii_letters
 from string import digits
