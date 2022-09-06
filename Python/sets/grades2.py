@@ -16,9 +16,6 @@ for i in set3:
         if i in set4:
             set4.remove(i)
 
-
-
-
 print(*sorted(set4),sep=' ')
 
 """
